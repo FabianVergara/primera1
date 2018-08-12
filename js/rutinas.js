@@ -29,6 +29,6 @@ function formulario(){
      alert(K);
      return;
  }
-     alert("Digito:" + dv);
+     alert( dv);
  }
  

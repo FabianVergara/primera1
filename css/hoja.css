@@ -1,0 +1,44 @@
+body {
+background-color: aqua;
+}
+div{
+    background-color: brown;
+    padding: 50px;
+    width: 500px;
+    height: 500px;
+    
+    
+}
+div img{
+    
+    width: 100px;
+    height: 100px
+    
+
+}
+.clase{
+    background-image: url("../img/1176844355_extras_ladillos_2_0.jpg");
+}
+#Titulo1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-size: 25px
+}
+#Titulo2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px
+}
+#Titulo3{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px
+}
+#Titulo4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: yellow;
+}
+.dividir{
+    width: 500px;
+    height: 150px;
+    background-color: antiquewhite;
+}
